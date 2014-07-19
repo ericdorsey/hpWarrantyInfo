@@ -12,8 +12,8 @@ Python 2.7
 **Directions:**
 Place serial number and product number, one per line seperated by a comma with no spaces, of HP devices in a file called hpinput.txt in same directory as mechanizeHP.py, for example:
 
-`ABC12345A0,AB012AB
-ZXV12345B2,GH123ZZ`
+`ABC12345A0,AB012AB`  
+`ZXV12345B2,GH123ZZ`
 
 **Limitations:**
 Only tested in OSX. Changes to the HP warranty site will, of course, break the script
