@@ -1,4 +1,5 @@
-******************************
+*7/19/2014* This is likely not even working anymore, this was code I wrote specifically for pulling out useful information from the HP site for documentation, but keeping it for legacy demonstration / examples.
+
 mechanizeHP.py
 9/8/12
 by Eric Dorsey
